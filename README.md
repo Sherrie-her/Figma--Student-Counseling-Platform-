@@ -1,7 +1,7 @@
 # Figma--Student-Counseling-Platform-
 
-#Note : This design file is Korean. For figma design file, please refer to the link below 
-#link: 
+# Note : This design file is Korean. For figma design file, please refer to the link below 
+# link: https://www.figma.com/community/file/1453749093579870720/student-counseling-platform-in-korean
 
 # SPACE - Teen Community Platform
 
