@@ -1,16 +1,10 @@
-# Figma--Student-Counseling-Platform-
+# Figma--Space: Student-Counseling-Platform-
+A UX/UI design project for a teen-focused community and counseling platform that provides a safe space for adolescents to connect, share, and seek support.
 
-# Note 
-This design file is Korean. For figma design file, please refer to the link below 
 # link
 https://www.figma.com/community/file/1453749093579870720/student-counseling-platform-in-korean
 
 <img width="1307" alt="Screenshot 2024-12-25 at 11 31 50 PM" src="https://github.com/user-attachments/assets/9465d98e-c550-40a7-bc25-ea6dcde70c63" />
-
-
-# SPACE - Teen Community Platform
-
-A UX/UI design project for a teen-focused community and counseling platform that provides a safe space for adolescents to connect, share, and seek support.
 
 ## Project Overview
 
