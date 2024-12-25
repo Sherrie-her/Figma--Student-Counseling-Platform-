@@ -4,7 +4,7 @@ A UX/UI design project for a teen-focused community and counseling platform that
 # link
 https://www.figma.com/community/file/1453749093579870720/student-counseling-platform-in-korean
 
-<img width="1307" alt="Screenshot 2024-12-25 at 11 31 50 PM" src="https://github.com/user-attachments/assets/9465d98e-c550-40a7-bc25-ea6dcde70c63" />
+<img width="1299" alt="Screenshot 2024-12-25 at 11 56 45 PM" src="https://github.com/user-attachments/assets/0a04c830-7113-4134-bbb4-e15799ffe289" />
 
 ## Project Overview
 
